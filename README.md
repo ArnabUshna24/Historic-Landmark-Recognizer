@@ -22,3 +22,7 @@ Identifying historic landmarks using an image recognizer, using 15 categories.
 
 ## Dataset
 Images were collected using automated DuckDuckGo search. Dataset is not included due to size and copyright considerations.
+
+## Training
+* Multi-class classification
+* CNN-based model (FastAI default architecture)
