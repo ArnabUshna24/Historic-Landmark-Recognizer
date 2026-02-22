@@ -1,9 +1,9 @@
 # Historic Landmark Recognizer
 
-# Goal
+## Goal
 Identifying historic landmarks using an image recognizer, using 15 categories.
 
-# Categories
+## Categories
 1. Tajmahal (India)
 2. Christ the Redeemer (Brazil)
 3. Machu Picchu (Peru)
@@ -19,3 +19,6 @@ Identifying historic landmarks using an image recognizer, using 15 categories.
 13. Salt Flats of Uyuni (Bolivia)
 14. Merlion Statue (Singapore)
 15. Big Ben (UK)
+
+## Dataset
+Images were collected using automated DuckDuckGo search. Dataset is not included due to size and copyright considerations.
